@@ -1,6 +1,6 @@
 myshop
  
-This is a demo saddlery sales ecommerce store written in PHP using HTML and CSS, with MySQL used for data storage.
+This is a demo saddlery sales ecommerce store written in PHP using HTML and CSS, with MySQL used for data storage. It is designed to be a website, accessible over the Internet.
 
 To do/ Further improvements with more time (not a finite list!):
 
