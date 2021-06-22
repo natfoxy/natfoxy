@@ -6,7 +6,7 @@ To do/ Further improvements (not a finite list!):
 - Add a user account setup/login etc
 - Add an admin panel to allow for product and category CRUD
 - Add in search functionality
-- Add extra rror handling
+- Add extra error handling
 - Further data sanitising and security measures, pen testing
 - Build checkout
 - Setup discount codes section in admin
